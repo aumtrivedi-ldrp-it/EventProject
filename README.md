@@ -27,12 +27,12 @@ start "nodemon" or "node app.js"
 https://www.getpostman.com/collections/27f36e5bb10cdc329df4
 
 
-![Add](https://drive.google.com/file/d/19xEB8JS6b5Qc9iw6rBUK7XTx2YuaaoiU/view)
+https://drive.google.com/file/d/19xEB8JS6b5Qc9iw6rBUK7XTx2YuaaoiU/view
 
-![EventList](https://drive.google.com/file/d/1UYH3SNaevvbOO1qOb2Ka0QCmBOth9Dlw/view?usp=sharing)
-
-
-![Edit](https://drive.google.com/file/d/1OOmCafHTGI7-5iByzWGdePoTpx-fLuUJ/view?usp=sharing)
+https://drive.google.com/file/d/1UYH3SNaevvbOO1qOb2Ka0QCmBOth9Dlw/view?usp=sharing
 
 
-![EventDetail](https://drive.google.com/file/d/1XKH-MCIOkXDi2WnzuhnE5-7NZ_kDoF7e/view)
+https://drive.google.com/file/d/1OOmCafHTGI7-5iByzWGdePoTpx-fLuUJ/view?usp=sharing
+
+
+https://drive.google.com/file/d/1XKH-MCIOkXDi2WnzuhnE5-7NZ_kDoF7e/view
